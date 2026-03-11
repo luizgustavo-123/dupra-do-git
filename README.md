@@ -1,2 +1,2 @@
-# dupra-do-git
+# dupla-do-git
 
